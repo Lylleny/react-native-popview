@@ -1,0 +1,20 @@
+{
+  "name": "react-native-popview",
+  "version": "1.0.0",
+  "description": "a popview for react-native,support both android with ios.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lylleny/react-native-popview.git"
+  },
+  "keywords": [
+    "pop",
+    "popview",
+    "react-native"
+  ],
+  "author": "lylleny",
+  "license": "ISC"
+}
